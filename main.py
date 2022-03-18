@@ -5,10 +5,10 @@ import time
 #constants
 PROMISED_DOWN = 100
 PROMISED_UP = 20
-CHROME_DRIVER_PATH = "/Users/kshitijchaubey/Desktop/PythonProjects/TwitterBot/chromedriver"
-TWITTER_EMAIL = "michaelis2509@gmail.com"
-TWITTER_PASSWORD = "TaggyMichael@30"
-Phone_number = "9365844564"
+CHROME_DRIVER_PATH = "chromedriver path of your system"
+TWITTER_EMAIL = "your email id"
+TWITTER_PASSWORD = "your password"
+Phone_number = "your phone no"
 
 class InternetSpeedTwitterBot:
     
