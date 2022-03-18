@@ -78,4 +78,4 @@ bot.get_internet_speed()
 bot.tweet_at_provider()
 
 
-#created with passion and love for curiosity by Kshitij Chaubey
+#created with passion and love for automation by Kshitij Chaubey
